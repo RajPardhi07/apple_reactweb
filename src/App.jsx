@@ -9,6 +9,7 @@ import Page3 from "./Components/Page3"
 import Page4 from "./Components/Page4"
 import Page6 from "./Components/Page6"
 import Page5 from "./Components/page5"
+import Page7 from "./Components/page7"
 import './css/locomotive-scroll.css'
 
 const App = () => {
@@ -34,6 +35,7 @@ const App = () => {
       <Page4/>
       <Page5/>
       <Page6/>
+      <Page7/>
       </div>
 
 
